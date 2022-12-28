@@ -1,0 +1,29 @@
+
+
+table td:hover{
+    background-color: teal;
+    color: white;
+    
+}
+span{
+    font-size: 30px;
+}
+.winning{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+.winning button{
+height: 50px;
+border-radius: 10px;
+border:none;
+background-color: cornflowerblue;
+color: aliceblue;
+}
+.winning button:hover{
+background-color: darkslateblue;
+}
+.winning p{
+    font-size: 20px;
+}

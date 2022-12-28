@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: aliceblue;
+    height: 50px;
+}
+h1{
+    padding: 5px;
+}
